@@ -8,7 +8,7 @@ local L_2_ = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-sc
 local L_3_ = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))()
 ----------------------------------------------------------------------------------------------------------------------------------------------
 local L_4_ = L_1_:CreateWindow({
-	Title = "Slimex Hub",
+	Title = "TawanWcr Hub",
 	SubTitle = "Version 1029387",
 	TabWidth = 160,
 	Size = UDim2.fromOffset(530, 350),
@@ -7111,7 +7111,7 @@ if Third_Sea then
 				elseif game:GetService("Lighting").Sky.MoonTextureId == "http://www.roblox.com/asset/?id=9709143733" then
 					Hop()
 					L_1_:Notify({
-						Title = "Rimuru Hub",
+						Title = "TawanWcr Hub",
 						Content = "Turn Off Find Full Moon...",
 						SubContent = "", -- Optional
 						Duration = 5 -- Set to nil to make the notification not disappear
@@ -7119,7 +7119,7 @@ if Third_Sea then
 				elseif game:GetService("Lighting").Sky.MoonTextureId == "http://www.roblox.com/asset/?id=9709150401" then
 					Hop()
 					L_1_:Notify({
-						Title = "Rimuru Hub",
+						Title = "TawanWcr Hub",
 						Content = "Hop...",
 						SubContent = "", -- Optional
 						Duration = 5 -- Set to nil to make the notification not disappear
@@ -7127,7 +7127,7 @@ if Third_Sea then
 				elseif game:GetService("Lighting").Sky.MoonTextureId == "http://www.roblox.com/asset/?id=9709149680" then
 					Hop()
 					L_1_:Notify({
-						Title = "Rimuru Hub",
+						Title = "TawanWcr Hub",
 						Content = "Hop...",
 						SubContent = "", -- Optional
 						Duration = 5 -- Set to nil to make the notification not disappear
@@ -7164,14 +7164,14 @@ end
 --info
 L_5_.Info:AddButton(
         {
-            Title = "Thank for use SlimeX_Hub",
-            Description = "dev by Slimex sp by TThe",
+            Title = "Thank for use TawanWcr_Hub",
+            Description = "dev by TawanWcr sp by TWCR",
             Callback = function()
-                setclipboard("dev by Slimex sp by TThe")
+                setclipboard("dev by TawanWcr sp by TWCR")
                 Fluent:Notify(
                     {
-                        Title = "SlimeX_Hub",
-                        Content = "dev by Slimex sp by TThe",
+                        Title = "TawanWcr_Hub",
+                        Content = "dev by TawanWcr sp by TWCR",
                         SubContent = "", -- Optional
                         Duration = 5 -- Set to nil to make the notification not disappear
                     }
@@ -7181,13 +7181,13 @@ L_5_.Info:AddButton(
     )
 L_5_.Info:AddButton(
         {
-            Title = "Copy Discord SlimeX_Hub",
-            Description = "https://discord.gg/hWrKvbMrVF",
+            Title = "Copy Discord TawanWcr_Hub",
+            Description = "https://discord.com/z64RA43WfP",
             Callback = function()
-                setclipboard("https://discord.gg/hWrKvbMrVF")
+                setclipboard("https://discord.com/z64RA43WfP")
                 Fluent:Notify(
                     {
-                        Title = "SlimeX_Hub",
+                        Title = "TawanWcr_Hub",
                         Content = "Copied!",
                         SubContent = "", -- Optional
                         Duration = 5 -- Set to nil to make the notification not disappear
