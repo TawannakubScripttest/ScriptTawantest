@@ -9,7 +9,7 @@ local L_3_ = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-sc
 ----------------------------------------------------------------------------------------------------------------------------------------------
 local L_4_ = L_1_:CreateWindow({
 	Title = "TawanWcr Hub",
-	SubTitle = "Version 1029387",
+	SubTitle = "Version 9999999999999999999999999",
 	TabWidth = 160,
 	Size = UDim2.fromOffset(530, 350),
 	Acrylic = false,
@@ -7182,9 +7182,9 @@ L_5_.Info:AddButton(
 L_5_.Info:AddButton(
         {
             Title = "Copy Discord TawanWcr_Hub",
-            Description = "https://discord.com/z64RA43WfP",
+            Description = "https://discord.com/83bsRwAd8h",
             Callback = function()
-                setclipboard("https://discord.com/z64RA43WfP")
+                setclipboard("https://discord.com/83bsRwAd8h")
                 Fluent:Notify(
                     {
                         Title = "TawanWcr_Hub",
