@@ -7182,9 +7182,9 @@ L_5_.Info:AddButton(
 L_5_.Info:AddButton(
         {
             Title = "Copy Discord TawanWcr_Hub",
-            Description = "https://discord.com/83bsRwAd8h",
+            Description = "https://discord.com/invite/83bsRwAd8h",
             Callback = function()
-                setclipboard("https://discord.com/83bsRwAd8h")
+                setclipboard("https://discord.com/invite/83bsRwAd8h")
                 Fluent:Notify(
                     {
                         Title = "TawanWcr_Hub",
